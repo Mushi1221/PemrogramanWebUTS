@@ -1,0 +1,52 @@
+body {
+    background: linear-gradient(#9a08dd 0%, #dd4c4f 40%, #7420d3 100%);
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 80px;
+}
+.ProfilePict{
+    width: 200px;
+}
+.profile h2 {
+    color: blanchedalmond;
+}
+.profile h4 {
+    color: blanchedalmond;
+}
+.biodata{
+    background: linear-gradient(#ffffff 0%, rgba(253, 253, 253, 0.774) 40%, rgba(249, 249, 250, 0) 100%);
+    padding-bottom: 200px;
+    padding-top: 55px;
+}
+.col{
+    transform: translateY(30px);
+    padding-bottom: 80px;
+}
+.footer{
+    background: linear-gradient(#ffffff 0%, rgba(253, 253, 253, 0.774) 40%, rgba(249, 249, 250, 0) 100%);
+    padding-bottom: 30px;
+}
+.card{
+    height: 150px;
+    width: 100px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.contact a{
+    color: black;
+    font-size:  30px;
+}
+
+.row{
+    padding: 0px 10px;
+}
+.riwayat{
+    background: linear-gradient(#ffffff 0%, rgba(253, 253, 253, 0.774) 40%, rgba(249, 249, 250, 0) 100%);
+    padding-bottom: 55px;
+}
